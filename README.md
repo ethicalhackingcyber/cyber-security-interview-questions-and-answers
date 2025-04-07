@@ -1,5 +1,5 @@
 # cyber-security-interview-questions-and-answers
-Here are the top cyber security interview questions and answers with pdf which you need to successfully crack your interview. 
+Here are the top cyber security interview questions and answers which you need to successfully crack your interview. 
 
 1. **What is cybersecurity, and why is it important?**
 Cybersecurity refers to the protection of computer systems, networks, and information from malicious attack (hackers) and viruses. It is important because it prevents the theft of sensitive personal information such as passwords or financial information like banking details.
