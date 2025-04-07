@@ -40,4 +40,4 @@ Two-step verification requires an additional action before a user is able to acc
 Encryption: It is the process of encoding data so as to ensure its security.
 Decryption: It is decoding of data that was hidden under a certain code which makes it unavailable to some. For instance, a lock on a diary could be regarded as encryption, whereas the key representing the lock's code serves as the reader.
 
-Whether cyber security interview questions for freshers​ or cyber security interview questions for experienced professionals are, our Comprehensive **[one year diploma in cybersecurity course in delhi]([url](https://www.craw.in/1-year-diploma-course-in-cyber-security-training-in-delhi/))** covers such aspects ensuring you are prepared for meeting such requirements. Sign up today!
+Whether cyber security interview questions for freshers​ or cyber security interview questions for experienced professionals are, our Comprehensive [one year diploma in cybersecurity course in delhi]([url](https://www.craw.in/1-year-diploma-course-in-cyber-security-training-in-delhi/)) covers such aspects ensuring you are prepared for meeting such requirements. Sign up today!
